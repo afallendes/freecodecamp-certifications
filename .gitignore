@@ -2,3 +2,5 @@
 **/.replit
 **/__pycache__
 **/.pytest_cache
+*.png
+!**/examples/*.png
